@@ -1,1 +1,7 @@
-name: My Jekyll Website
+# Site settings
+title: "João Pereira ... Welcome to my Personal Website"
+email: pereiraffjoao1993@gmail.com
+yearbirth: '1993'
+birthdate: '25-02-1993'
+description: "Hello! Welcome to my personal website. My name is João Pereira and here you will know me a little better. Hope you enjoy :)"
+

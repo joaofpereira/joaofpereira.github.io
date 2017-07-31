@@ -91,7 +91,7 @@ body a:hover{
 .header-right h6 {
 	font-size: 1.3em;
 	color: #fff;
-	margin-top: 0.8em;
+	margin-top: 0.9em;
 }
 
 ul.address {
@@ -221,6 +221,11 @@ p {
 	color: #999;
 	line-height: 1.8em;
 }
+
+.about-left {
+	font-size: 2em;
+}
+
 .about-right {
 	padding-left: 5em;
 }
