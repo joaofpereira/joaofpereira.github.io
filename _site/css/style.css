@@ -144,12 +144,36 @@ ul.address li ul.address-text li a {
 ul.social-network-list li {
 	text-decoration:none;
     float: left;
-	font-size: 1.4em;
-	padding-left: 2.5em;
+	font-size: 1.8em;
+	padding-left: 1.2em;
 }
 
 ul.social-network-list li a {
 	color: #C7C7C7
+}
+
+a#twitter:hover {
+	color: #77DDF6;
+}
+
+a#github:hover {
+	color: black;
+}
+
+a#linkedin:hover {
+	color: #0177B5;
+}
+
+a#facebook:hover {
+	color: #3B5998;
+}
+
+a#instagram:hover {
+	color: #D43402;
+}
+
+a#email:hover {
+	color: #F7B401
 }
 
 /*--//banner-top--*/
