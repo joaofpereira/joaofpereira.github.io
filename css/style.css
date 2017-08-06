@@ -250,6 +250,14 @@ p {
 }
 /*--//about--*/
 /*--work--*/
+.word_link {
+	text-decoration: none
+}
+
+.word_link_main {
+	text-decoration: none
+}
+
 .work {
 	background: #000;
 }
