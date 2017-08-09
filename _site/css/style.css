@@ -94,6 +94,25 @@ body a:hover{
 	margin-top: 0.9em;
 }
 
+.documents-main {
+	margin-top: -1em;
+}
+
+.documents{
+	float: right;
+}
+
+.documents li {
+	display: inline;
+	margin-left: 3em;
+}
+
+.documents li>a {
+	background-color: #008B8B;
+	border-color: #008B8B;
+	width: 8em;
+}
+
 ul.address {
 	margin-top: 2em;
 	border-top: 1px solid #AFAFAF;
