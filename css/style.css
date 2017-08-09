@@ -95,16 +95,14 @@ body a:hover{
 }
 
 .documents-main {
-	margin-top: -1em;
+	margin-top: -2em;
+	padding-bottom: 2em;
 }
 
-.documents{
-	float: right;
-}
 
 .documents li {
-	display: inline;
-	margin-left: 3em;
+	display: inline-block;
+	margin-left: 1em;
 }
 
 .documents li>a {
@@ -930,6 +928,12 @@ h3.title {
 @media(max-width:768px){
 .banner-info {
 	padding: 3em 0;
+}
+.documents-main {
+	margin: 0 auto;
+}
+.documents {
+	padding-right: 1.5em;
 }
 }
 @media(max-width:767px){
