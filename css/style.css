@@ -801,10 +801,22 @@ h3.title {
 .contact-form input[type="text"] {
 	width: 48.8%;
 }
+.documents-main {
+	margin: 0 auto;
+}
+.documents {
+	padding-right: 1.5em;
+}
 }
 @media(max-width:1024px){
 .header-right h1 {
 	font-size: 2.3em;
+}
+.documents-main {
+	margin: 0 auto;
+}
+.documents {
+	padding-right: 1.5em;
 }
 }
 @media(max-width:991px){
@@ -912,6 +924,12 @@ h3.title {
 .contact-form input[type="text"].email {
 	margin: 2em 0 1em 0.5em;
 }
+.documents-main {
+	margin: 0 auto;
+}
+.documents {
+	padding-right: 1.5em;
+}
 }
 @media(max-width:800px){
 .about, .work, .education, .skills, .portfolio, .contact {
@@ -923,6 +941,12 @@ h3.title {
 }
 #swipebox-title {
 	font-size: 0.9em;
+}
+.documents-main {
+	margin: 0 auto;
+}
+.documents {
+	padding-right: 1.5em;
 }
 }
 @media(max-width:768px){
