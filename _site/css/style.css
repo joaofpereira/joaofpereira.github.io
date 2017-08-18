@@ -59,6 +59,22 @@ body a:hover{
 	margin: 0.5em 0 0;
 }
 
+a#cv {
+	background-color: #e7e7e7; /* Green */
+	border-color: #fff;
+    color: #008B8B;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    width: 6em;
+}
+
+li#cv {
+	text-align: center;
+	display:inline-block;
+}
+
 /*.header-right h2 {
 	font-size: 1.2em;
 	color: #000;
@@ -772,6 +788,11 @@ h2.resp-accordion {
 .work-right {
 	padding: 2.5em 0 1em 6em;
 }
+li#cv {
+	text-align: center;
+	display:inline-block;
+	padding-bottom: 0.5em;
+}
 }
 @media(max-width:1080px){
 .header-left {
@@ -818,6 +839,11 @@ h3.title {
 }
 .documents {
 	padding-right: 1.5em;
+}
+li#cv {
+	text-align: center;
+	display:inline-block;
+	padding-bottom: 0.5em;
 }
 }
 @media(max-width:991px){
@@ -931,6 +957,11 @@ h3.title {
 .documents {
 	padding-right: 1.5em;
 }
+li#cv {
+	text-align: center;
+	display:inline-block;
+	padding-bottom: 0.5em;
+}
 }
 @media(max-width:800px){
 .about, .work, .education, .skills, .portfolio, .contact {
@@ -960,6 +991,11 @@ h3.title {
 .documents {
 	padding-right: 1.5em;
 }
+li#cv {
+	text-align: center;
+	display:inline-block;
+	padding-bottom: 0.5em;
+}
 }
 @media(max-width:767px){
 .navbar-toggle {
@@ -976,6 +1012,11 @@ h3.title {
 ul.nav.navbar li a {
 	padding: 0.8em 1.5em;
 	font-size: 1.1em;
+}
+li#cv {
+	text-align: center;
+	display:inline-block;
+	padding-bottom: 0.5em;
 }
 }
 @media(max-width:640px){
