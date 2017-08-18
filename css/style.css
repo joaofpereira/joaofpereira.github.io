@@ -75,6 +75,18 @@ li#cv {
 	display:inline-block;
 }
 
+label[for='orcid'] {
+  content: url(../icons/orcid_16x16.png);
+  width: 16px;
+  height: 16px;
+}
+
+label[for='rg'] {
+  content: url(../icons/research_gate_180x180.png);
+  width: 16px;
+  height: 16px;
+}
+
 /*.header-right h2 {
 	font-size: 1.2em;
 	color: #000;
