@@ -845,6 +845,9 @@ li#cv {
 	display:inline-block;
 	padding-bottom: 0.5em;
 }
+.bar-grids > h4 {
+	font-size: 1.5em;
+}
 }
 @media(max-width:991px){
 .banner-info {
@@ -962,6 +965,9 @@ li#cv {
 	display:inline-block;
 	padding-bottom: 0.5em;
 }
+.bar-grids > h4 {
+	font-size: 1.5em;
+}
 }
 @media(max-width:800px){
 .about, .work, .education, .skills, .portfolio, .contact {
@@ -996,6 +1002,9 @@ li#cv {
 	display:inline-block;
 	padding-bottom: 0.5em;
 }
+.bar-grids > h4 {
+	font-size: 1.5em;
+}
 }
 @media(max-width:767px){
 .navbar-toggle {
@@ -1017,6 +1026,9 @@ li#cv {
 	text-align: center;
 	display:inline-block;
 	padding-bottom: 0.5em;
+}
+.bar-grids > h4 {
+	font-size: 1.5em;
 }
 }
 @media(max-width:640px){
@@ -1088,6 +1100,14 @@ h3.title {
 }
 .footer {
 	padding: 1.5em 0;
+}
+li#cv {
+	text-align: center;
+	display:inline-block;
+	padding-bottom: 0.5em;
+}
+.bar-grids > h4 {
+	font-size: 1.5em;
 }
 }
 @media(max-width:480px){
