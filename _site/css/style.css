@@ -711,11 +711,11 @@ h2.resp-accordion {
 	min-height: 10em;
 	-webkit-appearance: none;
 }
-.contact-form div {
+/*.contact-form div {
 	padding-left: 2.8em;
 	padding-top: 0.2em;
 	padding-bottom: 0.2em;
-}
+}*/
 .contact-form input[type="submit"] {
 	outline: none;
 	color: #000;
