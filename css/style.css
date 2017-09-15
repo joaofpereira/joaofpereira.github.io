@@ -87,6 +87,12 @@ label[for='rg'] {
   height: 16px;
 }
 
+label[for='speakerdeck'] {
+  content: url(../icons/speakerdeck_128x128.png);
+  width: 16px;
+  height: 16px;
+}
+
 /*.header-right h2 {
 	font-size: 1.2em;
 	color: #000;
