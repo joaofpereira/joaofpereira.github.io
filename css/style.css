@@ -426,15 +426,25 @@ p {
 	margin-bottom: 0.6em;
 	text-align: center;
 }
-i.language-icon {
+
+.icon-language-span {
 	float: left;
+	color: #FFF;
 }
-span.percentage {
-	float: right;
+
+.icon-language-span i {
+	font-size: 60px;
 }
-span.language-description {
-	display: inline-block;
+
+i.language-icon {
+	width: 3em;
+	height: 3em;
 }
+
+.language-description {
+	padding-left: 1em;
+}
+
 .bar-grids h6 {
 	font-size: 1.1em;
 	color: #fff;
